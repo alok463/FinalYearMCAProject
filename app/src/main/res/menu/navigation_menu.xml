@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Add New Post"
+        android:icon="@drawable/add_post"
+        android:id="@+id/add_new_post"/>
+
+    <item
+        android:title="Subscribe"
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home"
+        />
+    <item
+        android:title="Unsubscribe"
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/profile"/>
+
+
+    <item
+        android:title="Log Out"
+        android:icon="@drawable/logout"
+        android:id="@+id/nav_log_out"/>
+
+</menu>

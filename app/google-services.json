@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "411612597994",
+    "firebase_url": "https://androidfinalproject-33d7e.firebaseio.com",
+    "project_id": "androidfinalproject-33d7e",
+    "storage_bucket": "androidfinalproject-33d7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411612597994:android:89e2a268070b0f70",
+        "android_client_info": {
+          "package_name": "com.abc.farmersconsult"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411612597994-p4gkqh9vvmt7l89n0b7qnbbed3l9e56g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abc.farmersconsult",
+            "certificate_hash": "67b00e8492b0741fcfcb83d853f7e296a483b178"
+          }
+        },
+        {
+          "client_id": "411612597994-917t6hunu2ecb12gu7vk6mgpbomg92te.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "411612597994-917t6hunu2ecb12gu7vk6mgpbomg92te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6b_yXlJa7YxW1-l5FzMox3h6YpuaECws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411612597994-917t6hunu2ecb12gu7vk6mgpbomg92te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
